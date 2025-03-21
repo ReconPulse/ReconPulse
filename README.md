@@ -1,9 +1,5 @@
 ## Hi there 👋 We are Recon Pulse
 
-Below is a polished README file based on your input, formatted for clarity and usability. It assumes the context of a project focused on reconnaissance detection using anomaly-based clustering, incorporating the dataset recommendations and guidance you provided.
-
----
-
 # Reconnaissance Detection Using Anomaly-Based Clustering
 
 ## Overview
@@ -94,9 +90,6 @@ If existing datasets don’t fully meet your needs:
 ## Contact
 For questions or contributions, feel free to reach out via the project repository or contact the maintainers.
 
----
-
-This README is concise, user-friendly, and tailored to a technical audience working on reconnaissance detection. Let me know if you'd like adjustments!
 <!--
 **ReconPulse/ReconPulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
